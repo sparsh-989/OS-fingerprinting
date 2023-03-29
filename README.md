@@ -22,4 +22,4 @@ Neural Networks, K-nearest neighbour, Decision Trees, Random Forest,
 and Na ̈ıve Bayes. The results show that better operating system iden-
 tification can be attained through machine learning techniques using
 encrypted traffic of systems connected to the network to a commercial
-non-machine learning based method.
+non-machine learning based methods.
